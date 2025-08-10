@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name        microcenter-show-discounts
 // @namespace   https://github.com/justfalter/browser-userscripts
-// @version     0.0.0
+// @version     1.0.0
 // @author      mike
+// @description Adds discount percentage to Micro Center product listings for open box items. Orders results to display items with the greatest percentage discount first (per result page).
 // @updateURL   https://raw.githubusercontent.com/justfalter/browser-userscripts/main/microcenter-show-discounts.user.js
 // @downloadURL https://raw.githubusercontent.com/justfalter/browser-userscripts/main/microcenter-show-discounts.user.js
 // @match       https://www.microcenter.com/*
